@@ -1,0 +1,197 @@
+{
+  "duration": 20,
+  "enemies": 
+  [
+    {
+      "time": 0.1,
+      "x": 0.30,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": 0,
+      "bulletVelocityY": 300,
+      "bulletVelocityX": 0
+    },
+      {
+      "time": 0.1,
+      "x": 0.50,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": 0,
+      "bulletVelocityY": 300,
+      "bulletVelocityX": 0
+    },
+      {
+      "time": 0.1,
+      "x": 0.70,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": 0,
+      "bulletVelocityY": 300,
+      "bulletVelocityX": 0
+    },
+    {
+      "time": 3,
+      "x": 0.90,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": 90,
+      "bulletVelocityY": 100,
+      "bulletVelocityX": -300
+    },
+     {
+      "time": 3.4,
+      "x": 0.10,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": -90,
+      "bulletVelocityY": 100,
+      "bulletVelocityX": 300
+    },
+    {
+      "time": 4,
+      "x": 0.90,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": 90,
+      "bulletVelocityY": 100,
+      "bulletVelocityX": -300
+    },
+
+    {
+      "time": 4.4,
+      "x": 0.10,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": -90,
+      "bulletVelocityY": 100,
+      "bulletVelocityX": 300
+    },
+
+    {
+      "time": 5,
+      "x": 0.90,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": 90,
+      "bulletVelocityY": 100,
+      "bulletVelocityX": -300
+    },
+   
+    
+    {
+      "time": 5.5,
+      "x": 0.10,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": -90,
+      "bulletVelocityY": 100,
+      "bulletVelocityX": 300
+    },
+
+    {
+      "time": 12,
+      "x": 0.20,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": 0,
+      "bulletVelocityY": 300,
+      "bulletVelocityX": 0
+    },
+
+    {
+      "time": 12,
+      "x": 0.35,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": 0,
+      "bulletVelocityY": 300,
+      "bulletVelocityX": 0
+    },
+
+    {
+      "time": 12,
+      "x": 0.50,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": 0,
+      "bulletVelocityY": 300,
+      "bulletVelocityX": 0
+    },
+
+    {
+      "time": 12,
+      "x": 0.65,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": 0,
+      "bulletVelocityY": 300,
+      "bulletVelocityX": 0
+    },
+
+    {
+      "time": 12,
+      "x": 0.80,
+      "health": 1,
+      "speedX": 0, 
+      "speedY": 150,
+      "key": "enemy_01",
+      "scale": 1,
+      "score": 10,
+      "angle": 0,
+      "bulletVelocityY": 300,
+      "bulletVelocityX": 0
+    }
+  ]
+}

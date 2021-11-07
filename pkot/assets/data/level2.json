@@ -1,0 +1,32 @@
+{
+  "duration": 7,
+  "enemies": 
+  [
+    {
+      "time": 0.1,
+      "x": 0.30,
+      "health": 5,
+      "speedX": 200, 
+      "speedY": 100,
+      "key": "enemy_01",
+      "scale": 2,
+      "score": 50,
+      "angle": 0,
+      "bulletVelocityY": 300,
+      "bulletVelocityX": 0
+    },
+    {
+      "time": 0.1,
+      "x": 0.60,
+      "health": 5,
+      "speedX": 200, 
+      "speedY": 100,
+      "key": "enemy_01",
+      "scale": 2,
+      "score": 50,
+      "angle": 0,
+      "bulletVelocityY": 300,
+      "bulletVelocityX": 0
+    }
+  ]
+}
