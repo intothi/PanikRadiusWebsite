@@ -3,6 +3,33 @@ body {
     background-color: #333333;
 }
 
+.mainLabel {
+    padding-bottom: 2%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1280px;
+}
+
+.mainLabelButton{
+    position: relative;
+    display: block;
+    top: -33%;
+    left: 68%;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    /*padding-left: 60px;*/
+    /*padding-right: 60px;*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*min-width: 160px;*/
+    margin-bottom: 2%;
+    text-align:center;
+    font-size: 18px;
+    font-weight:bold;
+    width: 30%;
+}
+
 .text_center {
     text-align: center;
 }
